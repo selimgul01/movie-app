@@ -1,0 +1,12 @@
+.hero-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    width: 90%;
+    height:90vh;
+    background-image: url("https://i.pinimg.com/originals/f7/21/70/f72170a1f6147cc1ed4bb19a94bece52.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
